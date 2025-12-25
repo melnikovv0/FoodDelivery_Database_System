@@ -1,4 +1,4 @@
-#🍕 Food Delivery: Relational Database System
+# 🍕 Food Delivery: Relational Database System
 This project is a comprehensive design and implementation of a database system for a Food Delivery Service. It covers the entire lifecycle from relational modeling to advanced analytical querying using Oracle SQL.
 
 ---
