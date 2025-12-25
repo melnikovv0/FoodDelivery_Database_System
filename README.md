@@ -3,7 +3,7 @@ This project is a comprehensive design and implementation of a database system f
 
 ---
 
-📊 Project Workflow
+ ### 📊 Project Workflow
 Relational Modeling: Designing the database architecture including Users, Restaurants, Menus, Orders, and Payments.
 
 Schema Implementation: Creating tables with complex constraints (Primary Keys, Foreign Keys, Check constraints) to ensure data integrity.
@@ -16,7 +16,7 @@ Database Objects: Creating Views, Sequences, and Indexes to optimize performance
 
 ---
 
-🛠 Tech Stack
+ ### 🛠 Tech Stack
 Language: Oracle SQL
 
 Concepts: * Hierarchical Queries: CONNECT BY PRIOR for user referral structures.
@@ -31,7 +31,7 @@ Regex: REGEXP_LIKE for data validation (emails).
 
 ---
 
-📈 Key Features
+ ### 📈 Key Features
 Order Tracking: Full lifecycle of an order from placement to payment status.
 
 Marketing Tools: Functional system for promotions and discount codes with date validation.
@@ -40,5 +40,5 @@ User Hierarchy: Support for parent-child user relationships (referral system).
 
 ---
 
-👨‍💻 Author
-Evgenii Melnikov Database Development Project
+### 👨‍💻 Author
+**Evgenii Melnikov** *VŠB-TUO, FEI*
